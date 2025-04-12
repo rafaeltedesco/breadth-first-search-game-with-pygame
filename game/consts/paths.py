@@ -1,0 +1,1 @@
+SPRITES_PATH = "assets/sprites"
